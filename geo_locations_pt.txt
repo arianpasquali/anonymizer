@@ -1,0 +1,475 @@
+Abrantes
+Agualva-Cacém
+Águeda
+Albergaria-a-Velha
+Albufeira
+Alcácer do Sal
+Alcobaça
+Alfena
+Almada
+Almeirim
+Alverca do Ribatejo
+Amadora
+Amarante
+Amora
+Anadia
+Angra do Heroísmo
+Aveiro
+Barcelos
+Barreiro
+Beja
+Borba
+Braga
+Bragança
+Caldas da Rainha
+Câmara de Lobos
+Caniço
+Cantanhede
+Cartaxo
+Castelo Branco
+Chaves
+Coimbra
+Costa da Caparica
+Covilhã
+Elvas
+Entroncamento
+Ermesinde
+Esmoriz
+Espinho
+Esposende
+Estarreja
+Estremoz
+Évora
+Fafe
+Faro
+Fátima
+Felgueiras
+Figueira da Foz
+Fiães
+Freamunde
+Funchal
+Fundão
+Gafanha da Nazaré
+Gandra
+Gondomar
+Gouveia
+Guarda
+Guimarães
+Horta
+Ílhavo
+Lagoa
+Lagoa
+Lagos
+Lamego
+Leiria
+Lisboa
+Lixa
+Loulé
+Loures
+Lourosa
+Macedo de Cavaleiros
+Machico
+Maia
+Mangualde
+Marco de Canaveses
+Marinha Grande
+Matosinhos
+Mealhada
+Mêda
+Miranda do Douro / Miranda de l Douro
+Mirandela
+Montemor-o-Novo
+Montijo
+Moura
+Odivelas
+Olhão da Restauração
+Oliveira de Azeméis
+Oliveira do Bairro
+Oliveira do Hospital
+Ourém
+Ovar
+Paços de Ferreira
+Paredes
+Penafiel
+Peniche
+Peso da Régua
+Pinhel
+Pombal
+Ponta Delgada
+Ponte de Sor
+Portalegre
+Portimão
+Porto
+Póvoa de Santa Iria
+Póvoa de Varzim
+Praia da Vitória
+Quarteira
+Queluz
+Rebordosa
+Reguengos de Monsaraz
+Ribeira Grande
+Rio Maior
+Rio Tinto
+Sabugal
+Sacavém
+Samora Correia
+Santa Comba Dão
+Santa Cruz
+Santa Maria da Feira
+Santana
+Santarém
+Santiago do Cacém
+Santo Tirso
+São João da Madeira
+São Mamede de Infesta
+São Pedro do Sul
+Lordelo
+Seia
+Seixal
+Senhora da Hora
+Serpa
+Setúbal
+Silves
+Sines
+Tarouca
+Tavira
+Tomar
+Tondela
+Torres Novas
+Torres Vedras
+Trancoso
+Trofa
+Valbom
+Vale de Cambra
+Valença
+Valongo
+Valpaços
+Vendas Novas
+Viana do Castelo
+Vila Baleira
+Vila do Conde
+Vila Franca de Xira
+Vila Nova de Famalicão
+Vila Nova de Foz Côa
+Vila Nova de Gaia
+Vila Nova de Santo André
+Vila Real
+Vila Real de Santo António
+Viseu
+Vizela
+Médio Tejo
+Grande Lisboa
+Baixo Vouga
+Baixo Vouga
+Algarve
+Alentejo Litoral
+Oeste
+Grande Porto
+Península de Setúbal
+Lezíria do Tejo
+Grande Lisboa
+Grande Lisboa
+Tâmega
+Península de Setúbal
+Baixo Vouga
+Ilha Terceira
+Baixo Vouga
+Cávado
+Península de Setúbal
+Baixo Alentejo
+Alentejo Central
+Cávado
+Alto Trás-os-Montes
+Oeste
+Ilha da Madeira
+Ilha da Madeira
+Baixo Mondego
+Lezíria do Tejo
+Beira Interior Sul
+Alto Tâmega
+Baixo Mondego
+Península de Setúbal
+Cova da Beira
+Alto Alentejo
+Médio Tejo
+Grande Porto
+Baixo Vouga
+Grande Porto
+Cávado
+Baixo Vouga
+Alentejo Central
+Alentejo Central
+Ave
+Algarve
+Médio Tejo
+Tâmega
+Baixo Mondego
+Entre Douro e Vouga
+Tâmega
+Ilha da Madeira
+Cova da Beira
+Baixo Vouga
+Tâmega
+Grande Porto
+Serra da Estrela
+Beira Interior Norte
+Ave
+Ilha do Faial
+Baixo Vouga
+Ilha de São Miguel
+Algarve
+Algarve
+Douro
+Pinhal Litoral
+Grande Lisboa
+Tâmega
+Algarve
+Grande Lisboa
+Entre Douro e Vouga
+Alto Trás-os-Montes
+Ilha da Madeira
+Grande Porto
+Dão-Lafões
+Tâmega
+Pinhal Litoral
+Grande Porto
+Baixo Mondego
+Beira Interior Norte
+Alto Trás-os-Montes
+Alto Trás-os-Montes
+Alentejo Central
+Península de Setúbal
+Baixo Alentejo
+Grande Lisboa
+Algarve
+Entre Douro e Vouga
+Baixo Vouga
+Pinhal Interior Norte
+Médio Tejo
+Baixo Vouga
+Tâmega
+Tâmega
+Tâmega
+Oeste
+Douro
+Beira Interior Norte
+Pinhal Litoral
+Ilha de São Miguel
+Alto Alentejo
+Alto Alentejo
+Algarve
+Grande Porto
+Grande Lisboa
+Grande Porto
+Ilha Terceira
+Algarve
+Grande Lisboa
+Tâmega
+Alentejo Central
+Ilha de São Miguel
+Lezíria do Tejo
+Grande Porto
+Beira Interior Norte
+Grande Lisboa
+Lezíria do Tejo
+Dão-Lafões
+Ilha da Madeira
+Entre Douro e Vouga
+Ilha da Madeira
+Lezíria do Tejo
+Alentejo Litoral
+Grande Porto
+Entre Douro e Vouga
+Grande Porto
+Dão-Lafões
+Grande Porto
+Serra da Estrela
+Península de Setúbal
+Grande Porto
+Baixo Alentejo
+Península de Setúbal
+Algarve
+Alentejo Litoral
+Douro
+Algarve
+Médio Tejo
+Dão-Lafões
+Médio Tejo
+Oeste
+Beira Interior Norte
+Grande Porto
+Grande Porto
+Entre Douro e Vouga
+Minho-Lima
+Grande Porto
+Alto Trás-os-Montes
+Alentejo Central
+Minho-Lima
+Ilha do Porto Santo
+Grande Porto
+Grande Lisboa
+Ave
+Douro
+Grande Porto
+Alentejo Litoral
+Douro
+Algarve
+Dão-Lafões
+Santarém
+Lisboa
+Aveiro
+Aveiro
+Faro
+Setúbal
+Leiria
+Porto
+Setúbal
+Santarém
+Lisboa
+Lisboa
+Porto
+Setúbal
+Aveiro
+Açores
+Aveiro
+Braga
+Setúbal
+Beja
+Évora
+Braga
+Bragança
+Leiria
+Madeira
+Madeira
+Coimbra
+Santarém
+Castelo Branco
+Vila Real
+Coimbra
+Setúbal
+Castelo Branco
+Portalegre
+Santarém
+Porto
+Aveiro
+Aveiro
+Braga
+Aveiro
+Évora
+Évora
+Braga
+Faro
+Santarém
+Porto
+Coimbra
+Aveiro
+Porto
+Madeira
+Castelo Branco
+Aveiro
+Porto
+Porto
+Guarda
+Guarda
+Braga
+Açores
+Aveiro
+Açores
+Faro
+Faro
+Viseu
+Leiria
+Lisboa
+Porto
+Faro
+Lisboa
+Aveiro
+Bragança
+Madeira
+Porto
+Viseu
+Porto
+Leiria
+Porto
+Aveiro
+Guarda
+Bragança
+Bragança
+Évora
+Setúbal
+Beja
+Lisboa
+Faro
+Aveiro
+Aveiro
+Coimbra
+Santarém
+Aveiro
+Porto
+Porto
+Porto
+Leiria
+Vila Real
+Guarda
+Leiria
+Açores
+Portalegre
+Portalegre
+Faro
+Porto
+Lisboa
+Porto
+Açores
+Faro
+Lisboa
+Porto
+Évora
+Açores
+Santarém
+Porto
+Guarda
+Lisboa
+Santarém
+Viseu
+Madeira
+Aveiro
+Madeira
+Santarém
+Setúbal
+Porto
+Aveiro
+Porto
+Viseu
+Porto
+Guarda
+Setúbal
+Porto
+Beja
+Setúbal
+Faro
+Setúbal
+Viseu
+Faro
+Santarém
+Viseu
+Santarém
+Lisboa
+Guarda
+Porto
+Porto
+Aveiro
+Viana do Castelo
+Porto
+Vila Real
+Évora
+Viana do Castelo
+Madeira
+Porto
+Lisboa
+Braga
+Guarda
+Porto
+Setúbal
+Vila Real
+Faro
+Viseu
