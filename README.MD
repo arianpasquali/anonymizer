@@ -1,11 +1,24 @@
 # PDF anonymizer 
+Extrair conteúdo de texto de PDF e anonimiza. 
 
+Atributos anonimizados:
 
-Defina um diretório com os ficheiros PDF (ex:/path/to/pdf/folder)
+* Idade
+* Nome paciente
+* Nome médico
+* Cabeçalho
+* Datas
+* Região
+* Hospital
 
 ## Build docker image
-sudo docker build -t anonymizer /path/to/pdf/folder
+```
+docker build -t anonymizer .
+```
 
 ## Execute o container associando a sua pasta de PDF como volume
-sudo docker run -v /path/to/pdf/folder:/PDF anonymizer
+```
+docker run --name anonymizer -v /Users/arian/developer/workspace/ipo/Anonimizer/PDF:/PDF anonymizer
+```
 
+Será gerado um ficheiro .txt pada cada ficheiro .pdf com o texto anonimizado.
